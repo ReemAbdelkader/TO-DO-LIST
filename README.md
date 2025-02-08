@@ -46,4 +46,8 @@ This is a simple and interactive **To-Do List** application built using **HTML**
 4. **Enjoy the Animation:**
    - When you add a task, a fun celebration animation will play!
 
+---
 
+## Live Demo
+
+Check out the live demo of the project [here](https://reemabdelkader.github.io/TO-DO-LIST/).
